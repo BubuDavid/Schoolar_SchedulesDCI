@@ -6,3 +6,4 @@ dependencies:
   - lxml
   - bs4
   - pandas
+  - xlsxwriter
