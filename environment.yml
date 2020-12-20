@@ -6,4 +6,3 @@ dependencies:
   - lxml
   - bs4
   - pandas
-  - itertools
