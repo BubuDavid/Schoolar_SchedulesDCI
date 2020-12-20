@@ -1,5 +1,0 @@
-Álgebra lineal
-Cálculo de varias variables
-ECUACIONES DIFERENCIALES ORDINARIAS
-Métodos numéricos
-Variable compleja
